@@ -15,10 +15,6 @@
 Hi there!
 </h1>
 <img src="https://komarev.com/ghpvc/?username=dariaaa51&style=flat-square&color=blue" alt="" />
-
-  </div>
-  <div class="body" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   </div>
   <div class="list">
     <h2>:woman_technologist: About Me :</h2>
@@ -44,6 +40,16 @@ Hi there!
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+     
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dariaaa51&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariaaa51&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
       
-      
-      
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
