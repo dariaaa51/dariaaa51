@@ -11,11 +11,39 @@
   </a>
   <a href="vk.com/dariaaa51">
   <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dariaaa51&style=flat-square&color=blue" alt="" />
-</div>
 <h1 align="center">
 Hi there!
 </h1>
+<img src="https://komarev.com/ghpvc/?username=dariaaa51&style=flat-square&color=blue" alt="" />
 
+  </div>
+  <div class="body" align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  </div>
+  <div class="list">
+    <h2>:woman_technologist: About Me :</h2>
+    <ul>
+      <li>
+    I am studying for a frontend developer in Yandex Practicum since 2022
+      </li>
+      <li>
+    I am 23 years old
+      </li>
+      <li>
+    In my free time I like camping, snowboarding, cycling, horse riding and other extreme things
+      </li>
+      <li>
+    I have Bachelor's degree as primary school teacher
+      </li>
+    <div>
+
+### :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+      
+      
+      
