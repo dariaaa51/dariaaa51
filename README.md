@@ -11,13 +11,13 @@
   </a>
   <a href="vk.com/dariaaa51">
   <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
+
 <h1 align="center">
 Hi there!
 </h1>
 <img src="https://komarev.com/ghpvc/?username=dariaaa51&style=flat-square&color=blue" alt="" />
   </div>
-  <div class="list">
-    <h2>:woman_technologist: About Me :</h2>
+    <h3>:woman_technologist: About Me :</h3>
     <ul>
       <li>
     I am studying for a frontend developer in Yandex Practicum since 2022
@@ -31,7 +31,6 @@ Hi there!
       <li>
     I have Bachelor's degree as primary school teacher
       </li>
-    <div>
 
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -48,8 +47,3 @@ Hi there!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariaaa51&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
       
 ---
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
